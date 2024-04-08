@@ -1,5 +1,4 @@
-#PSA:
-Boo michael
+PSA: Boo michael
 michelle is dead to me
 
 
