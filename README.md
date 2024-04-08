@@ -1,3 +1,8 @@
+Okay public service announcement:
+michelle is dead to me
+
+
+
 wait this isnt suposed to be code
 PYTHON\
 CHEEZER IS IN OPYTHINON
