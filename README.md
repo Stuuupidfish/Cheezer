@@ -251,7 +251,6 @@ brie.penup()
 brie.onclick(earn)
 brie.goto(0, -1000)
 
-# define earlier
 btext = turtle.Turtle()
 btext.speed(0)
 btext.color("orange")
