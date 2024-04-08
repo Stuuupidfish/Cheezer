@@ -1,5 +1,5 @@
 # Cheezer
-#Help what am I doing
+
 import turtle
 import random
 import time
